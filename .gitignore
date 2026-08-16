@@ -1,0 +1,12 @@
+# Archivos que Git debe ignorar (no se suben al repo)
+
+# Prueba de conexión
+_test.txt
+
+# Basura que Python genera al ejecutar (aparecerá más adelante)
+__pycache__/
+*.pyc
+
+# Si preferís que tu diario personal NO sea público,
+# borrá el numeral (#) de la línea siguiente:
+# diario/

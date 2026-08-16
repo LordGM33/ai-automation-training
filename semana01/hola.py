@@ -1,0 +1,1 @@
+print("Hola, soy Ricardo y este es mi primer programa")
